@@ -1,30 +1,34 @@
-# Urgent assistance
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/obeejs-projects/accountingsoftware)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/rdOgKwZtMIZ)
+## Promix Accounting
 
-## Overview
+**Promix Accounting** is a modern, open-source accounting platform rebuilt from the ground up using **Next.js**, with a fully designed and intuitive user experience tailored for businesses of all sizes. Promix is designed to simplify financial operations like invoicing, expense tracking, payroll, and reporting while remaining flexible and developer-friendly.
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+### 🌐 Live Demos
 
-## Deployment
+* **Dashboard:** [https://accountingsoftware.vercel.app](https://accountingsoftware.vercel.app)
+* **Landing Page:** [https://promixaccounting.vercel.app](https://promixaccounting.vercel.app)
 
-Your project is live at:
+### 🧠 What’s Inside?
 
-**[https://vercel.com/obeejs-projects/accountingsoftware](https://vercel.com/obeejs-projects/accountingsoftware)**
+* **Complete Frontend Rewrite**: Built with **Next.js** for performance and scalability.
+* **Custom UI/UX**: Every user flow is carefully designed for clarity and efficiency.
+* **Modular Design**: Promix is structured for easy maintenance and feature extension.
 
-## Build your app
+### 🔧 Coming Soon
 
-Continue building your app on:
+* **Cloud-Native Backend**: Implementation with **Go (Gin)** and **Rust (Axum)** for high performance and reliability.
+* **DevOps-Ready**: Infrastructure as Code (IaC) setup to support scalable deployments and CI/CD.
+* **Robust APIs**: Secure endpoints for full-stack integrations and third-party apps.
 
-**[https://v0.dev/chat/projects/rdOgKwZtMIZ](https://v0.dev/chat/projects/rdOgKwZtMIZ)**
+### 💡 Why Promix?
 
-## How It Works
+Promix is built for:
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+* **Startups** looking for an affordable and customizable accounting solution.
+* **Developers** who want an open-source base to integrate into broader ERP systems.
+* **SMEs** seeking flexibility without sacrificing usability or speed.
+
+---
+
+Let me know if you’d like badges, images, feature tables, or install instructions added!
