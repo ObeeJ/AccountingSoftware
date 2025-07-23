@@ -30,5 +30,3 @@ Promix is built for:
 * **SMEs** seeking flexibility without sacrificing usability or speed.
 
 ---
-
-Let me know if you’d like badges, images, feature tables, or install instructions added!
